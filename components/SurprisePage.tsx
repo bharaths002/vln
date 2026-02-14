@@ -37,13 +37,13 @@ const SurprisePage: React.FC = () => {
   ];
 
   const photos: Record<number, string> = {
-    100: "/images/1.jpg",
-    101: "/images/2.jpg",
-    102: "/images/3.jpg",
-    103: "/images/4.jpg",
-    104: "/images/5.jpg",
-    105: "/images/6.jpg",
-    106: "/images/7.jpg",
+    100: "images/1.jpg",
+    101: "images/2.jpg",
+    102: "images/3.jpg",
+    103: "images/4.jpg",
+    104: "images/5.jpg",
+    105: "images/6.jpg",
+    106: "images/7.jpg",
   };
 
   return (
