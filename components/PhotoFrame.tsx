@@ -46,7 +46,7 @@ const PhotoFrame: React.FC<PhotoFrameProps> = ({
         ) : (
           <div className="text-center p-4">
             <span className="text-pink-300 text-3xl">📸</span>
-            <p className="text-[10px] text-pink-400 mt-2 uppercase tracking-widest font-bold">Moment of MEMORIES</p>
+            <p className="text-[10px] text-pink-400 mt-2 uppercase tracking-widest font-bold"> Upload Our MEMORIES🩵</p>
           </div>
         )}
 
